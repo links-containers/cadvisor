@@ -20,6 +20,14 @@ https://jelastic.com/cloud-hosting-platform-for-developers
 
 https://containerdays.io/
 
+https://www.computer.org/web/the-clear-cloud/content?g=7477973&type=blogpost&urlTitle=containers-on-the-ranch
+
+https://www.weave.works/docs/tutorials/
+
+https://blog.docker.com/2016/02/containers-as-a-service-caas-2/
+
+https://www.ctl.io/search/?cx=000864274719125806788%3Ajsnq1pqvxxw&ie=UTF-8&q=container+orchestration
+
 
 #### Mesos
 
@@ -42,6 +50,9 @@ https://blog.equinix.com/blog/2017/01/06/the-rise-of-container-as-a-service-caas
 https://medium.com/@mweagle/spartagrafana-serverless-monitoring-f86ca6da79ed
 
 https://aws.amazon.com/blogs/compute/better-together-amazon-ecs-and-aws-lambda/
+
+https://serverless.zone/announcing-jeffconf-london-2017-49af72bf5284
+
 
 #### Unikernal
 
